@@ -1,3 +1,3 @@
 # Title
 
-![alt text](demo.gif)
+<img src="demo.gif" width="250" height="250"/>
